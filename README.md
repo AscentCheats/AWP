@@ -1,2 +1,1 @@
-AddExclusion adds exclusions for all the paths of AWP
-more soon.
+fix for exclusions, admin perms, and multi inject. more soon.
